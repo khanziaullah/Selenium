@@ -15,5 +15,11 @@ This is an example project.
   f. Name
   g. TagName
   h. XPath - Last option
-c
-All these require excessive knowledge of the UI development and not the requirements.
+
+3. Added Example for Radio button.
+  Created a temporary HTML page with simple HTML code for rendering a couple of radio buttons.
+  The code finds multiple element by name and randomly choses the 2nd element and calls function click. That selects the radio button.
+
+4. Added Example for Select element.
+  An actual real life example test that validates that an option is selected
+  Another example that tells about the selenium UI support library. This example tells how to use different options. I am using SelectElementByValue.
